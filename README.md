@@ -22,7 +22,7 @@ PufferPanel is a simple server management panel. But I didn't find any themes fo
 ## Support
 * Pufferpanel
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
-> PufferPanel [Discord server](https://discord.gg/v8dz49e) <br>
+> PufferPanel [discord server](https://discord.gg/v8dz49e) <br>
 * Themes<br>
-> Infinity [Discord server](https://discord.gg/Y3mG8KrdVS) <br>
+> Infinity [discord server](https://discord.gg/Y3mG8KrdVS) <br>
 > My discord: infinity#4596
