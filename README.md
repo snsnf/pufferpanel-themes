@@ -1,4 +1,4 @@
-# ⚡ PufferPanel Themes ()
+# ⚡ PufferPanel v2 Themes
 ![Discord](https://img.shields.io/discord/916564126950625280?label=discord&logo=discord&logoColor=white)
 #### Don't forgot to put a 🌟 that's keep me motivited, thanks ✨
 
