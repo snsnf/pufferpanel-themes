@@ -1,8 +1,9 @@
 # ⚡ PufferPanel v2 Themes
-![Discord](https://img.shields.io/discord/916564126950625280?label=discord&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/discord/916564126950625280?label=Infinity%20Host&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/discord/291396338141364226?color=blue&label=PufferPanel&logo=discord&logoColor=white)
 #### Don't forgot to put a 🌟 that's keep me motivited, thanks ✨
 
-## Why
+## Why?
 
 PufferPanel is a simple dashboard for running servers like Minecraft and discord bots. But I didn't find any themes for it so I create this repo. to share with you some themes that you can use for free!
 
@@ -20,5 +21,7 @@ PufferPanel is a simple dashboard for running servers like Minecraft and discord
 ![2nd Theme](https://i.imgur.com/wDt3mQ2.png)
 ## Support
 
-If you find PufferPanel helpful please consider [donating](https://opencollective.com/pufferpanel)
-> [Join our discord](https://discord.gg/Y3mG8KrdVS) (Web hosting server)
+> PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
+> PufferPanel [server](https://discord.gg/v8dz49e) <br>
+> Infinity [server](https://discord.gg/Y3mG8KrdVS) <br>
+> My discord: infinity#4596
