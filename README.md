@@ -18,5 +18,5 @@ PufferPanel is a simple dashboard for running servers like Minecraft and discord
 ![1st theme](https://i.imgur.com/ijpcoeY.png)
 ## Support
 
-If you find this project helpful please consider [donating](https://itsinfinity.dev/donate) and if you need any help join our [discord server](https://discord.gg/Y3mG8KrdVS) 
-
+If you find PufferPanel helpful please consider [donating](https://opencollective.com/pufferpanel)
+> [Join our discord](https://discord.gg/Y3mG8KrdVS) 
