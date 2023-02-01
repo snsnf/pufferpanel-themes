@@ -5,7 +5,7 @@
 
 ## Why?
 
-PufferPanel is a simple dashboard for running servers like Minecraft and discord bots. But I didn't find any themes for it so I create this repo. to share with you some themes that you can use for free!
+PufferPanel is a simple server management panel. But I didn't find any themes for it so I create this repo. to share with you some themes that you can use for free!
 
 ## Features
 * ✏️ **Well designed**
@@ -20,8 +20,9 @@ PufferPanel is a simple dashboard for running servers like Minecraft and discord
 ##### 2nd Theme
 ![2nd Theme](https://i.imgur.com/wDt3mQ2.png)
 ## Support
-
+* Pufferpanel
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
-> PufferPanel [server](https://discord.gg/v8dz49e) <br>
-> Infinity [server](https://discord.gg/Y3mG8KrdVS) <br>
+> PufferPanel [Discord server](https://discord.gg/v8dz49e) <br>
+* Themes<br>
+> Infinity [Discord server](https://discord.gg/Y3mG8KrdVS) <br>
 > My discord: infinity#4596
