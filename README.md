@@ -7,6 +7,11 @@
 
 PufferPanel is a simple server management panel. But I didn't find any themes for it so I create this repo. to share with you some themes that you can use for free!
 
+## Using
+
+From [the official documentation](https://docs.pufferpanel.com/en/latest/guides/themes.html):
+> Every theme consists of one `.tar` file, place this file (without extracting it) in the themes directory in your panels web files (usually `/var/www/pufferpanel/`) The next time you visit your panel the dark mode button will have turned into a theming button which, when clicked, will bring up both the dark mode switch and all the themes available on your panel
+
 ## Features
 * ✏️ **Well designed**
 * 🌓 **Dark and light modes**
