@@ -1,5 +1,4 @@
 # ⚡ PufferPanel v2 Themes
-![Discord](https://img.shields.io/discord/916564126950625280?label=Infinity%20Host&logo=discord&logoColor=white)
 ![Discord](https://img.shields.io/discord/291396338141364226?color=blue&label=PufferPanel&logo=discord&logoColor=white)
 #### Don't forgot to put a 🌟 that's keep me motivited, thanks ✨
 
