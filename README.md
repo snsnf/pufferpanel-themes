@@ -27,5 +27,3 @@ From [the official documentation](https://docs.pufferpanel.com/en/latest/guides/
 * Pufferpanel
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
 > PufferPanel [discord server](https://discord.gg/v8dz49e) <br>
-* Themes<br>
-> My discord: infinity#4596
