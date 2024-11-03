@@ -45,4 +45,5 @@ panels settings page.
 * Pufferpanel <br>
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
 > PufferPanel [discord server](https://discord.gg/v8dz49e) <br>
-  
+* For suggestions or issues:
+> Mention [@itsinfinity.dev](https://discord.com/channels/291396338141364226/841328824758304798)
