@@ -1,4 +1,4 @@
-# ⚡ PufferPanel v2 Themes
+# ⚡ PufferPanel v3 Themes
 ![Discord](https://img.shields.io/discord/291396338141364226?color=blue&label=PufferPanel&logo=discord&logoColor=white)
 #### Don't forgot to put a 🌟 that's keep me motivited, thanks ✨
 
@@ -14,16 +14,35 @@ PufferPanel is a simple server management panel. But I didn't find any themes fo
 
 ## Using
 
-From [the official documentation](https://docs.pufferpanel.com/en/latest/guides/themes.html):
-> Every theme consists of one `.tar` file, place this file (without extracting it) in the themes directory in your panels web files (usually `/var/www/pufferpanel/`) The next time you visit your panel the dark mode button will have turned into a theming button which, when clicked, will bring up both the dark mode switch and all the themes available on your panel
+From [the official documentation](https://docs.pufferpanel.com/en/3.x/guides/themes/installing.html):
+> To install a theme on your PufferPanel instance make sure that the web file location defined in the
+config (usually ``/var/www/pufferpanel``) actually exists (or create it if it doesn't). Make sure
+that within that directory another directory named ``theme`` exists (or, again, create it if it
+doesn't). Then place your theme file in that ``theme`` directory and make sure that PufferPanel can
+read the web files by running ``chown -R pufferpanel:pufferpanel /path/to/web/files`` (replace
+``/path/to/web/files`` with the actual path to the web files as defined in the config). When you now
+navigate to your PufferPanel installation in your browser and log in you should be able to find your
+newly installed theme in the theme selection on both, your account preferences page, as well as the
+panels settings page.
 
 ## ScreenShots
-##### 1st Theme
-![1st theme](https://i.imgur.com/5u1c3Cq.png)
-![1st theme](https://i.imgur.com/ijpcoeY.png)
-##### 2nd Theme
-![2nd Theme](https://i.imgur.com/wDt3mQ2.png)
+### Dashed Theme: 
+#### Dark Mode
+<div style="display: flex; gap: 10px;">
+    <img src="https://i.imgur.com/xZqBoJw.png" alt="Dark Mode" width="300"/>
+    <img src="https://i.imgur.com/xNtlY9E.png" alt="Dark Mode" width="300"/>
+    <img src="https://i.imgur.com/SvSXBER.png" alt="Dark Mode" width="300"/>
+</div>
+
+#### Light Mode
+<div style="display: flex; gap: 10px;">
+    <img src="https://i.imgur.com/vwfQKmM.png" alt="Light Theme" width="300"/>
+    <img src="https://i.imgur.com/JS5XUci.png" alt="Light Theme" width="300"/>
+    <img src="https://i.imgur.com/UQzVTOS.png" alt="Light Theme" width="300"/>
+</div>
+
 ## Support
-* Pufferpanel
+* Pufferpanel <br>
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
 > PufferPanel [discord server](https://discord.gg/v8dz49e) <br>
+  
