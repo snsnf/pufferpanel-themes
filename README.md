@@ -1,6 +1,6 @@
 # ⚡ PufferPanel v3 Themes
 ![Discord](https://img.shields.io/discord/291396338141364226?color=blue&label=PufferPanel&logo=discord&logoColor=white)
-#### Don't forgot to put a 🌟 that's keep me motivited, thanks ✨
+#### Don't forget to leave a 🌟! It keeps me motivated, thanks ✨
 
 ## Why?
 
@@ -26,7 +26,7 @@ newly installed theme in the theme selection on both, your account preferences p
 panels settings page.
 
 ## ScreenShots
-### Dashed Theme: 
+### Dashline Theme: 
 #### Dark Mode
 <div style="display: flex; gap: 10px;">
     <img src="https://i.imgur.com/xZqBoJw.png" alt="Dark Mode" width="300"/>
